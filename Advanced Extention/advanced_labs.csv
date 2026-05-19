@@ -1,0 +1,11 @@
+Lab ID,Lab Name,Capacity,Software Installed
+L1,Programming and Data Science Laboratory,100,Introductory Python Environment; Scientific Python Environment; Data Science Software Suite
+L2,Foundation Programming Laboratory,105,Introductory Python Environment
+L3,Software and Database Systems Laboratory,100,Introductory Java Environment; Enterprise Java Development Tools; Database Management Software
+L4,Java Programming Laboratory,105,Introductory Java Environment
+L5,Engineering Computing Laboratory,100,Introductory MATLAB Environment; Numerical MATLAB Environment; Engineering Simulation Software
+L6,Numerical Methods Laboratory,105,Introductory MATLAB Environment
+L7,Statistics and Analytics Laboratory,100,Introductory R Environment; Advanced R Statistical Environment; Statistical Modelling Software
+L8,R Programming Laboratory,105,Introductory R Environment
+L9,Interdisciplinary Research Computing Laboratory,220,Scientific Python Environment; Data Science Software Suite; Enterprise Java Development Tools; Database Management Software; Numerical MATLAB Environment; Engineering Simulation Software; Advanced R Statistical Environment; Statistical Modelling Software
+L10,Applied Computing and GIS Laboratory,120,GIS Mapping Software; Network Simulation Software; Cybersecurity Training Tools; Microsoft Office and Web Tools

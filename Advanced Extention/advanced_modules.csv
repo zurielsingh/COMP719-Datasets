@@ -1,0 +1,51 @@
+Module Code,Module Name,Students,Software Needed,Time Slot
+M01,Introduction to Python Programming,96,Introductory Python Environment,TS1
+M02,Applied Data Science,95,Data Science Software Suite,TS1
+M03,Object-Oriented Programming in Java,96,Introductory Java Environment,TS2
+M04,Database Management Systems,95,Database Management Software,TS2
+M05,MATLAB for Engineering Applications,96,Introductory MATLAB Environment,TS3
+M06,Engineering Simulation Methods,95,Engineering Simulation Software,TS3
+M07,R Programming for Data Analysis,96,Introductory R Environment,TS4
+M08,Statistical Modelling,95,Statistical Modelling Software,TS4
+M09,Scientific Computing with Python,88,Scientific Python Environment,TS5
+M10,Python for Data Handling,76,Scientific Python Environment,TS6
+M11,Automation Scripting,64,Scientific Python Environment,TS7
+M12,Computational Problem Solving,52,Scientific Python Environment,TS8
+M13,Machine Learning Foundations,84,Data Science Software Suite,TS9
+M14,Predictive Analytics,72,Data Science Software Suite,TS10
+M15,Data Visualisation,60,Data Science Software Suite,TS11
+M16,Text Mining,48,Data Science Software Suite,TS12
+M17,Software Design Principles,88,Enterprise Java Development Tools,TS13
+M18,Enterprise Application Development,76,Enterprise Java Development Tools,TS14
+M19,Mobile Application Development,64,Enterprise Java Development Tools,TS15
+M20,Software Testing Practice,52,Enterprise Java Development Tools,TS16
+M21,Advanced Database Systems,84,Database Management Software,TS17
+M22,Data Warehousing,72,Database Management Software,TS18
+M23,Transaction Processing Systems,60,Database Management Software,TS19
+M24,Information Systems Project,48,Database Management Software,TS20
+M25,Numerical Methods,88,Numerical MATLAB Environment,TS21
+M26,Control Systems Computing,76,Numerical MATLAB Environment,TS22
+M27,Signal Processing with MATLAB,64,Numerical MATLAB Environment,TS23
+M28,Optimisation Modelling,52,Numerical MATLAB Environment,TS24
+M29,Finite Element Simulation,84,Engineering Simulation Software,TS25
+M30,Robotics Simulation,72,Engineering Simulation Software,TS26
+M31,Power Systems Simulation,60,Engineering Simulation Software,TS27
+M32,Computer-Aided Engineering Analysis,48,Engineering Simulation Software,TS28
+M33,Applied Statistics with R,88,Advanced R Statistical Environment,TS29
+M34,Research Data Analysis with R,76,Advanced R Statistical Environment,TS30
+M35,Biostatistics Computing,64,Advanced R Statistical Environment,TS31
+M36,Econometrics with R,52,Advanced R Statistical Environment,TS32
+M37,Survival Analysis,84,Statistical Modelling Software,TS33
+M38,Multivariate Statistics,72,Statistical Modelling Software,TS34
+M39,Time Series Modelling,60,Statistical Modelling Software,TS35
+M40,Experimental Design Analysis,48,Statistical Modelling Software,TS36
+M41,Geographic Information Systems,92,GIS Mapping Software,TS37
+M42,Spatial Data Analysis,78,GIS Mapping Software,TS38
+M43,Network Design and Simulation,86,Network Simulation Software,TS39
+M44,Computer Networks Laboratory,74,Network Simulation Software,TS40
+M45,Cybersecurity Fundamentals,82,Cybersecurity Training Tools,TS41
+M46,Ethical Hacking Laboratory,68,Cybersecurity Training Tools,TS42
+M47,Academic Computing Skills,58,Microsoft Office and Web Tools,TS43
+M48,Research Data Management,46,Microsoft Office and Web Tools,TS44
+M49,Digital Portfolio Development,34,Microsoft Office and Web Tools,TS45
+M50,Online Learning Systems,22,Microsoft Office and Web Tools,TS46

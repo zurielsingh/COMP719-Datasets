@@ -1,0 +1,11 @@
+Lab ID,Lab Name,Capacity,Software Installed
+L1,Advanced Computing Lab,120,Python; Java
+L2,Data Science Lab,95,Python; R
+L3,Algorithms Lab,95,Java; MATLAB
+L4,ML Research Lab,75,Python; MATLAB
+L5,Software Engineering Lab,65,Java
+L6,Numerical Methods Lab,55,MATLAB; R
+L7,Scripting Lab,50,Python
+L8,Statistics Lab,45,R; MATLAB
+L9,Legacy Systems Lab,40,Java
+L10,General Computing Lab,35,Python

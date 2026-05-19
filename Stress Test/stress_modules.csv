@@ -1,0 +1,51 @@
+Module Code,Module Name,Students,Software Needed
+M01,AI Systems,110,Python
+M02,Machine Learning,95,Python
+M03,Deep Learning,88,Python
+M04,Data Engineering,72,Python
+M05,Computer Vision,68,Python
+M06,Natural Language Processing,63,Python
+M07,Reinforcement Learning,58,Python
+M08,Big Data Analytics,54,Python
+M09,Neural Networks,49,Python
+M10,Predictive Modelling,45,Python
+M11,Scripting Basics,42,Python
+M12,Data Wrangling,38,Python
+M13,Automation Systems,34,Python
+M14,Web Scraping,28,Python
+M15,Algorithm Design,25,Python
+M16,Data Visualisation,22,Python
+M17,Text Mining,18,Python
+M18,Intro to Programming,15,Python
+M19,Enterprise Systems,105,Java
+M20,Object Oriented Design,82,Java
+M21,Software Architecture,74,Java
+M22,Distributed Systems,66,Java
+M23,Mobile Development,61,Java
+M24,Backend Engineering,55,Java
+M25,Design Patterns,48,Java
+M26,Database Systems,43,Java
+M27,Web Development,37,Java
+M28,Systems Programming,32,Java
+M29,Compiler Design,27,Java
+M30,Operating Systems,21,Java
+M31,Software Testing,17,Java
+M32,Control Systems,90,MATLAB
+M33,Signal Processing,78,MATLAB
+M34,Numerical Methods,67,MATLAB
+M35,Digital Signal Processing,59,MATLAB
+M36,Robotics,52,MATLAB
+M37,Image Processing,46,MATLAB
+M38,Systems Modelling,41,MATLAB
+M39,Circuit Simulation,36,MATLAB
+M40,Power Systems,29,MATLAB
+M41,Embedded Systems,23,MATLAB
+M42,Biomedical Engineering,19,MATLAB
+M43,Computational Mechanics,16,MATLAB
+M44,Statistical Learning,87,R
+M45,Biostatistics,71,R
+M46,Econometrics,53,R
+M47,Data Mining,44,R
+M48,Survival Analysis,33,R
+M49,Time Series Analysis,26,R
+M50,Experimental Design,20,R
